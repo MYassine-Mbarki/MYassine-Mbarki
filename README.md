@@ -1,4 +1,6 @@
-# 👋 Bonjour, je m'appelle Mohamed Yassine Mbarki 🎓 Étudiant en BUT en Informatique à l'IUT du Limousin 💻 Passionné par le développement web et les systèmes informatiques.
+# 👋 Bonjour, je m'appelle Mohamed Yassine Mbarki   
+🎓 Étudiant en BUT en Informatique à l'IUT du Limousin 
+💻 Passionné par le développement web et les systèmes informatiques.  
 
 
 Je suis à présent étudiant en BUT Informatique à l'IUT du Limousin.
