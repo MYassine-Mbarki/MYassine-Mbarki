@@ -1,9 +1,8 @@
-# 👋 Bonjour, je m'appelle Mohamed Yassine Mbarki   
-🎓 Étudiant en BUT en Informatique à l'IUT du Limousin 
-💻 Passionné par le développement web et les systèmes informatiques.  
+# 👋 Hello, my name is Mohamed Yassine Mbarki  
+🎓 Student in a **Bachelor of Technology in Computer Science (BUT Informatique)** at **IUT du Limousin**  
+💻 Passionate about web development and computer systems  
 
+I am currently a student in Computer Science at IUT du Limousin.  
+With a strong interest in computing, I am particularly drawn to application development and to understanding how computer systems work.
 
-Je suis à présent étudiant en BUT Informatique à l'IUT du Limousin.
-Ayant une passion pour l'informatique, je suis particulièrement attiré par le développement d'applications et la compréhension du fonctionnement des systèmes informatiques.
-
-Durant ma formation, je m'investis dans divers projets académiques qui me donnent l'opportunité d'améliorer mes aptitudes en programmation, en gestion de bases de données et en développement web.
+During my studies, I take part in various academic projects that give me the opportunity to strengthen my skills in programming, database management, and web development.
